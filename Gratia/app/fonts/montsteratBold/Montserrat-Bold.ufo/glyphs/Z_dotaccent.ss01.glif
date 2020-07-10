@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zdotaccent.ss01" format="2">
+  <advance width="681"/>
+  <anchor x="0" y="0" name="Anchor-17"/>
+  <anchor x="0" y="0" name="Anchor-16"/>
+  <anchor x="0" y="0" name="Anchor-15"/>
+  <anchor x="348" y="898" name="Anchor-14"/>
+  <anchor x="0" y="0" name="Anchor-13"/>
+  <anchor x="351" y="0" name="Anchor-12"/>
+  <outline>
+    <component base="Z.ss01"/>
+    <component base="uni0307.case" xOffset="648"/>
+  </outline>
+</glyph>

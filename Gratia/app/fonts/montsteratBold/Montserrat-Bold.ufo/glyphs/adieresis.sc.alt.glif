@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adieresis.sc.alt" format="2">
+  <advance width="655"/>
+  <outline>
+    <contour>
+      <point x="30" y="486"/>
+      <point x="30" y="516" type="qcurve" smooth="yes"/>
+      <point x="30" y="547"/>
+      <point x="70" y="586"/>
+      <point x="99" y="586" type="qcurve" smooth="yes"/>
+      <point x="128" y="586"/>
+      <point x="167" y="546"/>
+      <point x="167" y="516" type="qcurve" smooth="yes"/>
+      <point x="167" y="486"/>
+      <point x="128" y="448"/>
+      <point x="99" y="448" type="qcurve" smooth="yes"/>
+      <point x="69" y="448"/>
+    </contour>
+    <contour>
+      <point x="488" y="486"/>
+      <point x="488" y="516" type="qcurve" smooth="yes"/>
+      <point x="488" y="546"/>
+      <point x="527" y="586"/>
+      <point x="556" y="586" type="qcurve" smooth="yes"/>
+      <point x="586" y="586"/>
+      <point x="625" y="547"/>
+      <point x="625" y="516" type="qcurve" smooth="yes"/>
+      <point x="625" y="486"/>
+      <point x="586" y="448"/>
+      <point x="556" y="448" type="qcurve" smooth="yes"/>
+      <point x="527" y="448"/>
+    </contour>
+    <contour>
+      <point x="461" y="113" type="line"/>
+      <point x="192" y="113" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="-9" y="0" type="line"/>
+      <point x="249" y="575" type="line"/>
+      <point x="405" y="575" type="line"/>
+      <point x="664" y="0" type="line"/>
+      <point x="508" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="413" y="228" type="line"/>
+      <point x="327" y="436" type="line"/>
+      <point x="240" y="228" type="line"/>
+    </contour>
+  </outline>
+</glyph>

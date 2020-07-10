@@ -1,0 +1,523 @@
+body {
+  margin: 0px;
+  padding: 0px; }
+
+* {
+  margin: 0px;
+  padding: 0px; }
+
+.header {
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #e1e1e1; }
+
+.logoHeader {
+  margin-top: 30px; }
+
+.titleLogoHeader {
+  font-size: 16px;
+  color: #000000;
+  text-transform: uppercase;
+  font-family: 'Asap-Regular';
+  text-align: center; }
+
+.logoHeader img {
+  display: block;
+  margin: 0px auto; }
+
+.menuHeader {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 30px; }
+  .menuHeader li {
+    list-style-type: none;
+    padding-right: 50px; }
+  .menuHeader li:not(:first-child) {
+    text-transform: uppercase; }
+  .menuHeader .activeLinkHeader a {
+    border-bottom: 1px solid #000000;
+    padding-bottom: 5px; }
+  .menuHeader li a {
+    color: #000000;
+    font-size: 14px;
+    font-family: 'Asap-Regular'; }
+  .menuHeader li a:hover {
+    text-decoration: none; }
+
+.titleHeader {
+  font-family: 'Asap-Regular';
+  font-weight: bold;
+  font-size: 50px;
+  color: #4d4d4d; }
+
+.textHeader {
+  font-size: 22px;
+  color: #4d4d4d;
+  font-family: 'Asap-Regular'; }
+
+.btnHeader button {
+  width: 200px;
+  height: 50px;
+  border: 1px solid #000000;
+  background-color: transparent;
+  text-transform: uppercase; }
+
+.Header {
+  display: flex;
+  justify-content: space-between; }
+  .Header .rightSideHeader {
+    margin-top: 100px; }
+  .Header .LeftSideHeader {
+    margin-top: 200px; }
+    .Header .LeftSideHeader .textHeader {
+      margin-top: 30px; }
+    .Header .LeftSideHeader .btnHeaders {
+      margin-top: 30px;
+      display: flex; }
+
+.knowHeader:hover, .hiremeHeader:hover {
+  background-color: #fff;
+  border: none; }
+
+.section_about {
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat; }
+
+.blockLineAbout hr {
+  background-color: #7c7c7c;
+  width: 5%;
+  height: 2px; }
+
+.titleLeftAbout {
+  font-family: 'Asap-Regular';
+  font-weight: bold;
+  font-size: 40px;
+  text-transform: uppercase;
+  color: #7c7c7c; }
+
+.textLeftSideAbout {
+  color: #7c7c7c;
+  font-family: 'Asap-Regular';
+  font-size: 15px; }
+
+.btnAbout {
+  width: 200px;
+  height: 50px;
+  background-color: transparent;
+  border: 1px solid #000000; }
+
+.AboutTransform {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px; }
+  .AboutTransform .rightSideAbout {
+    margin-top: 100px; }
+  .AboutTransform .leftSideAbout {
+    margin-top: 200px; }
+
+.sectionService {
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat; }
+
+.blockLineService hr {
+  background-color: #7c7c7c;
+  width: 5%;
+  height: 2px; }
+
+.blockLineService {
+  display: flex;
+  justify-content: center; }
+
+.titleService {
+  font-family: 'Asap-Regular';
+  font-weight: bold;
+  font-size: 40px;
+  text-transform: uppercase;
+  color: #7c7c7c;
+  text-align: center; }
+
+.titleTransformService {
+  font-size: 20px;
+  color: #7c7c7c;
+  text-align: center; }
+
+.transformService {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px; }
+
+.ServiceTransform img {
+  display: block;
+  margin: 0px auto; }
+
+.blockBottom {
+  margin-top: 100px; }
+
+.sectionSkill {
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-top: 100px; }
+
+.titleMySkill {
+  font-family: 'Asap-Regular';
+  font-weight: bold;
+  font-size: 40px;
+  text-transform: uppercase;
+  color: #7c7c7c;
+  text-align: center; }
+
+.blockImgSkill {
+  margin-top: 100px; }
+
+.blockImgSkill img {
+  display: block;
+  margin: 0px auto;
+  width: 90%; }
+
+.sectionPortfolio {
+  font-family: 'Asap-Regular';
+  font-weight: bold;
+  font-size: 40px;
+  text-transform: uppercase;
+  color: #7c7c7c;
+  text-align: center;
+  margin-top: 100px; }
+
+.titlePortfolio {
+  font-family: 'Asap-Regular';
+  font-weight: bold;
+  font-size: 40px;
+  text-transform: uppercase;
+  color: #7c7c7c;
+  text-align: center; }
+
+.transformPortfolio {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px; }
+
+.portfDown {
+  margin-top: 50px; }
+
+.btnPortfolio button {
+  width: 200px;
+  height: 50px;
+  background-color: #fff;
+  color: #000000;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-family: 'Asap-Regular';
+  border: none; }
+
+.btnPortfolio {
+  margin-top: 50px;
+  border: none; }
+
+.sectionTestimonial {
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-top: 100px;
+  margin-bottom: 100px; }
+
+.titleTestimonial {
+  font-family: 'Asap-Regular';
+  font-weight: bold;
+  font-size: 40px;
+  text-transform: uppercase;
+  color: #7c7c7c;
+  text-align: center; }
+
+.blockImgSlide img {
+  float: left;
+  padding-right: 30px; }
+
+.titleSlideName {
+  font-size: 20px;
+  color: #000000;
+  text-transform: uppercase;
+  font-family: 'Asap-Regular'; }
+
+.SliderSlideTestimonial {
+  width: 700px;
+  overflow: hidden;
+  display: block;
+  margin: 0px auto;
+  padding-top: 100px; }
+
+.SlideTestimonial {
+  display: flex;
+  justify-content: flex-start; }
+
+.titleSlidePos {
+  font-size: 15px;
+  color: #000000;
+  text-transform: uppercase;
+  font-family: 'Asap-Regular'; }
+
+.textSlide {
+  font-size: 14px;
+  color: #000000;
+  text-transform: uppercase;
+  font-family: 'Asap-Regular';
+  width: 90%; }
+
+.blockSlide {
+  border-top: 1px solid #000000;
+  border-right: 1px solid #000000;
+  border-left: 1px solid #000000;
+  width: 900px; }
+
+.happyClient {
+  margin-top: 200px;
+  display: flex;
+  justify-content: space-between; }
+
+#hap {
+  font-size: 25px;
+  font-family: 'Asap-Regular';
+  color: #435061;
+  text-align: center; }
+
+#hap2 {
+  font-size: 25px;
+  font-family: 'Asap-Regular';
+  color: #435061;
+  text-align: center; }
+
+#hap3 {
+  font-size: 25px;
+  font-family: 'Asap-Regular';
+  color: #435061;
+  text-align: center; }
+
+#hap4 {
+  font-size: 25px;
+  font-family: 'Asap-Regular';
+  color: #435061;
+  text-align: center; }
+
+.titleHappyText {
+  font-size: 25px;
+  font-family: 'Asap-Regular';
+  color: #435061;
+  text-transform: uppercase; }
+
+.imgHappy img {
+  display: block;
+  margin: 0px auto; }
+
+.footer {
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("/app/img/bgFoot.jpg");
+  padding-top: 100px; }
+
+.lineFooter hr {
+  background-color: #fff;
+  width: 5%;
+  height: 2px; }
+
+.lineFooter {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px; }
+
+.footerSay {
+  font-size: 25px;
+  color: #fff;
+  font-family: 'Asap-Regular';
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center; }
+
+.blockFormFoot {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  padding-bottom: 30px; }
+
+.footerForm {
+  text-align: center; }
+
+#inpMailFoot, #inpNameFoot {
+  width: 300px;
+  height: 50px; }
+
+#inpNameFoot {
+  margin-right: 30px; }
+
+#textareaForm {
+  width: 620px; }
+
+.btnfootForm {
+  width: 150px;
+  height: 50px; }
+
+.btnFootForm {
+  margin-top: 30px;
+  margin-bottom: 30px; }
+
+.lineFooter1 hr {
+  background-color: #fff;
+  width: 100%;
+  height: 1px; }
+
+.textRight {
+  font-size: 16px;
+  color: #fff;
+  text-align: center;
+  font-family: 'Asap-Regular';
+  margin-right: 150px; }
+
+.footerBlockRightIcons, .footerIcons {
+  display: flex; }
+
+.footerRight {
+  display: block;
+  margin: 0px auto; }
+
+.facebookIcon, .twitterIcon, .GoogleIcon {
+  padding-right: 15px; }
+
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1300px) {
+  .transformPortfolio {
+    display: block; } }
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1023px) {
+  .transformPortfolio {
+    display: block; }
+  .logoHeader {
+    display: none; }
+  .AboutTransform {
+    display: block; }
+  .Header {
+    display: block; }
+  .LeftSideHeader {
+    text-align: center; }
+  .btnHeaders {
+    display: block;
+    margin: 0px auto;
+    text-align: center; }
+  .btnHeader {
+    display: block;
+    margin: 0px auto; } }
+
+@media only screen and (min-device-width: 425px) and (max-device-width: 767px) {
+  .logoHeader {
+    display: none; }
+  .transformPortfolio {
+    display: block; }
+  .Header {
+    display: block; }
+  .LeftSideHeader {
+    text-align: center; }
+  .btnHeaders {
+    display: block;
+    margin: 0px auto;
+    text-align: center; }
+  .btnHeader {
+    display: block;
+    margin: 0px auto; }
+  .AboutTransform {
+    display: block; }
+  .transformService {
+    display: block; }
+  .happyClient {
+    display: block;
+    text-align: center; }
+  .blockFormFoot {
+    display: block; }
+  #inpNameFoot {
+    margin-right: 0px; }
+  .lineFooter1 {
+    display: none; }
+  .footerBlockRightIcons {
+    display: block;
+    text-align: center; }
+  .footerIcons {
+    display: flex;
+    justify-content: center; }
+  .footerRight p {
+    margin-right: 0px; } }
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 424px) {
+  .logoHeader {
+    display: none; }
+  .transformPortfolio {
+    display: block; }
+  .Header {
+    display: block; }
+  .LeftSideHeader {
+    text-align: center; }
+  .btnHeaders {
+    display: block;
+    margin: 0px auto;
+    text-align: center; }
+  .btnHeader {
+    display: block;
+    margin: 0px auto; }
+  .AboutTransform {
+    display: block; }
+  .transformService {
+    display: block; }
+  .happyClient {
+    display: block;
+    text-align: center; }
+  .blockFormFoot {
+    display: block; }
+  #inpNameFoot {
+    margin-right: 0px; }
+  .lineFooter1 {
+    display: none; }
+  .footerBlockRightIcons {
+    display: block;
+    text-align: center; }
+  .footerIcons {
+    display: flex;
+    justify-content: center; }
+  .footerRight p {
+    margin-right: 0px; } }
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 374px) {
+  .logoHeader {
+    display: none; }
+  .transformPortfolio {
+    display: block; }
+  .Header {
+    display: block; }
+  .LeftSideHeader {
+    text-align: center; }
+  .btnHeaders {
+    display: block;
+    margin: 0px auto;
+    text-align: center; }
+  .btnHeader {
+    display: block;
+    margin: 0px auto; }
+  .AboutTransform {
+    display: block; }
+  .transformService {
+    display: block; }
+  .happyClient {
+    display: block;
+    text-align: center; }
+  .blockFormFoot {
+    display: block; }
+  #inpNameFoot {
+    margin-right: 0px; }
+  .lineFooter1 {
+    display: none; }
+  .footerBlockRightIcons {
+    display: block;
+    text-align: center; }
+  .footerIcons {
+    display: flex;
+    justify-content: center; }
+  .footerRight p {
+    margin-right: 0px; } }

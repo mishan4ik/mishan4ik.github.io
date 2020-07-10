@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash.sc" format="2">
+  <advance width="524"/>
+  <anchor x="0" y="0" name="Anchor-17"/>
+  <anchor x="398" y="575" name="Anchor-16"/>
+  <anchor x="404" y="327" name="Anchor-15"/>
+  <anchor x="175" y="575" name="Anchor-14"/>
+  <anchor x="0" y="0" name="Anchor-13"/>
+  <anchor x="301" y="0" name="Anchor-12"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="uni0337" xOffset="411" yOffset="-71"/>
+  </outline>
+</glyph>

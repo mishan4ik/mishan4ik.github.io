@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous"></script>
+	<link href="https://fonts.googleapis.com/css2?family=Crimson+Text&family=Hind+Siliguri&family=Nanum+Gothic&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+	<link rel="stylesheet" href="app/style/style.css">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>Document</title>
+</head>
+<body>
+	<header class="header">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 headerBlock">
+					<div class="blockTextHeader">
+						<h5 class="titleTextHeader">резюме</h5>
+						<p class="textHeader">Доброго времени суток, меня зовут Тищенко Михаил. Живу в Каменском - это Днепропетровская область, Украина. Я занимаюсь HTML версткой. У меня полностью кроссбраузерная, валидная и адаптивная верстка сайта.В процессе работы над проектом я использую сборщик проектов Gulp.   Для ускорения верстки сайта использую такие препроцессоры как Less/Sass/Stylus. БЭМ,bootstrap и медиа-запросы для адаптивной верстки сайта. Динамика сайта организуется собственным JS, jQuery кодом или настроенными плагинами.В конце работы осуществляется проверка отображения верстки в различных браузерах либо на разных устройствах, код проверяется валидатором на соответствие норм  и устраняются выявленные ошибки.</p>
+					</div><!--blockTextHeader-->
+					<div class="imgBlockHeader">
+						<img src="app/img/foto.jpg" alt="">
+					</div><!--imgBlockHeader-->
+				</div><!--col-lg-12-->
+			</div><!--row-->
+			<div class="row">
+				<div class="col-lg-12 transformBurger">
+					<img class="burgerImg" src="app/img/burger.png" alt="">
+				</div><!--transformBurger-->
+			</div><!--row-->
+			<div class="row">
+				<div class="col-lg-12 menuHeader">
+					<ul>
+						<li><a href="index.html">Обо мне</a></li>
+						<li><a href="skills.html">Мои навыки</a></li>
+						<li><a href="portfolio.html">Портфолио</a></li>
+						<li><a href="contact.html">Контакты</a></li>
+
+					</ul>
+				</div><!--col-lg-12-->
+			</div><!--row-->
+		</div><!--container-->
+		
+	</header>
+	
+</body>
+<script>
+ 		$(".burgerImg").click(function (){
+    if ($(window).width() <= 768){
+        $('.menuHeader').slideToggle();
+    } else {
+        $('.menuHeader').slideToggle();
+    }
+});
+ 	</script>
+</html>

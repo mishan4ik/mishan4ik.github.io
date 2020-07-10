@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar.sc" format="2">
+  <advance width="744"/>
+  <anchor x="0" y="0" name="Anchor-17"/>
+  <anchor x="0" y="0" name="Anchor-16"/>
+  <anchor x="372" y="467" name="Anchor-15"/>
+  <anchor x="372" y="575" name="Anchor-14"/>
+  <anchor x="0" y="0" name="Anchor-13"/>
+  <anchor x="372" y="0" name="Anchor-12"/>
+  <outline>
+    <component base="h.sc" xOffset="20"/>
+    <component base="uni0336.sc" xOffset="-27" yOffset="111"/>
+  </outline>
+</glyph>

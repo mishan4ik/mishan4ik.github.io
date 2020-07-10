@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sterling" format="2">
+  <advance width="668"/>
+  <unicode hex="00A3"/>
+  <outline>
+    <contour>
+      <point x="293" y="130" type="line"/>
+      <point x="636" y="130" type="line"/>
+      <point x="636" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="30" y="130" type="line"/>
+      <point x="130" y="130" type="line"/>
+      <point x="130" y="302" type="line"/>
+      <point x="30" y="302" type="line"/>
+      <point x="30" y="399" type="line"/>
+      <point x="130" y="399" type="line"/>
+      <point x="130" y="425" type="line" smooth="yes"/>
+      <point x="130" y="559"/>
+      <point x="301" y="712"/>
+      <point x="455" y="712" type="qcurve" smooth="yes"/>
+      <point x="575" y="712"/>
+      <point x="656" y="666" type="qcurve"/>
+      <point x="607" y="538" type="line"/>
+      <point x="547" y="574"/>
+      <point x="457" y="574" type="qcurve" smooth="yes"/>
+      <point x="377" y="574"/>
+      <point x="293" y="500"/>
+      <point x="293" y="428" type="qcurve" smooth="yes"/>
+      <point x="293" y="399" type="line"/>
+      <point x="533" y="399" type="line"/>
+      <point x="533" y="302" type="line"/>
+      <point x="293" y="302" type="line"/>
+    </contour>
+  </outline>
+</glyph>

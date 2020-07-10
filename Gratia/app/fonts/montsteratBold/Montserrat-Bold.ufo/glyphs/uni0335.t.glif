@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0335.t" format="2">
+  <advance width="0"/>
+  <anchor x="-300" y="435" name="_Anchor-15"/>
+  <anchor x="-300" y="435" name="_Anchor-10"/>
+  <anchor x="-300" y="435" name="_Anchor-3"/>
+  <outline>
+    <contour>
+      <point x="-475" y="480" type="line"/>
+      <point x="-126" y="480" type="line"/>
+      <point x="-126" y="390" type="line"/>
+      <point x="-475" y="390" type="line"/>
+    </contour>
+  </outline>
+</glyph>

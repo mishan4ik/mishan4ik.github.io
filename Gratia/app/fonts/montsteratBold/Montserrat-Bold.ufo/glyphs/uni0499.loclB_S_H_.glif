@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0499.loclBSH" format="2">
+  <advance width="563"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="0" y="0" name="Anchor-9"/>
+  <anchor x="277" y="538" name="Anchor-8"/>
+  <anchor x="0" y="0" name="Anchor-7"/>
+  <anchor x="262" y="0" name="Anchor-6"/>
+  <outline>
+    <component base="uni0437"/>
+    <component base="uni0327" xOffset="562"/>
+  </outline>
+</glyph>

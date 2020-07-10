@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04EF.ss01" format="2">
+  <advance width="687"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="0" y="0" name="Anchor-9"/>
+  <anchor x="341" y="699" name="Anchor-8"/>
+  <anchor x="0" y="0" name="Anchor-7"/>
+  <anchor x="679" y="0" name="Anchor-6"/>
+  <outline>
+    <component base="y.ss01"/>
+    <component base="uni0304" xOffset="641"/>
+  </outline>
+</glyph>

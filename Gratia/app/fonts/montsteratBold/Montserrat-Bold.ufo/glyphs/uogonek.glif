@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uogonek" format="2">
+  <advance width="687"/>
+  <unicode hex="0173"/>
+  <anchor x="0" y="0" name="Anchor-17"/>
+  <anchor x="537" y="538" name="Anchor-16"/>
+  <anchor x="0" y="0" name="Anchor-15"/>
+  <anchor x="341" y="538" name="Anchor-14"/>
+  <anchor x="614" y="0" name="Anchor-13"/>
+  <anchor x="341" y="0" name="Anchor-12"/>
+  <outline>
+    <component base="u"/>
+    <component base="uni0328" xOffset="913"/>
+  </outline>
+</glyph>

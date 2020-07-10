@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous"></script>
+	<link href="https://fonts.googleapis.com/css2?family=Crimson+Text&family=Hind+Siliguri&family=Nanum+Gothic&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+	<link rel="stylesheet" href="app/style/style.css">
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+</head>
+<body>
+	<section class="sectionPortfolio">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 transformMenuPortfolio">
+					<ul class="menuPortfolio">
+						<li class="portfAll"><a href="">all</a></li>
+						<li class="portfBoot"><a href="">bootstrap</a></li>
+						<li class="portfStylus"><a href="">stylus</a></li>
+						<li class="portfLess"><a href="">less</a></li>
+						<li class="portfSass"><a href="">sass</a></li>
+						
+					</ul>
+				</div><!--col-lg-12-->
+			</div><!--row-->
+			<div class="row">
+				<div class="col-lg-12 transformWorks">
+					<div class="blocks__work">
+						<div class="block__work firstWork">
+							<a target="blank" href="mishan4ik.github.io/timer">
+							<img src="app/img/home.png" alt="">
+							</a>
+						</div><!--block__work-->
+						<div class="block__work secondBlock_work secondWork">
+							<a target="blank" href="mishan4ik.github.io/mogo">
+							<img src="app/img/mogo.png" alt="">
+							</a>
+						</div><!--block__work-->
+						
+					</div><!--block__work-->
+					<div class="blocks__work">
+						<div class="block__work thirdWork">
+							<a target="blank" href="mishan4ik.github.io/luis">
+							<img src="app/img/luis.png" alt="">
+							</a>
+						</div><!--block__work-->
+						<div class="block__work secondBlock_work forthWork">
+							<a target="blank" href="mishan4ik.github.io/needHost">
+							<img src="app/img/needHost.png" alt="">
+							</a>
+						</div><!--block__work-->
+						
+					</div><!--block__work-->
+					<div class="blocks__work">
+						<div class="block__work fiveWork">
+							<a target="blank" href="mishan4ik.github.io/Gratia">
+							<img src="app/img/Gratia.png" alt="">
+							</a>
+						</div><!--block__work-->
+						<div class="block__work secondBlock_work sixWork">
+							<a target="blank" href="mishan4ik.github.io/puppy">
+							<img src="app/img/Cozy.png" alt="">
+							</a>
+						</div><!--block__work-->
+						
+					</div><!--block__work-->
+				</div><!--col-lg-12-->
+			</div><!--row-->
+			<div class="row">
+				<div class="col-lg-12 transformBurger">
+					<img class="burgerImg" src="app/img/burger.png" alt="">
+				</div><!--transformBurger-->
+			</div><!--row-->
+			<div class="row">
+				<div class="col-lg-12 menuSkills">
+					<ul>
+						<li><a href="index.html">Обо мне</a></li>
+						<li><a href="skills.html">Мои навыки</a></li>
+						<li><a href="portfolio.html">Портфолио</a></li>
+						<li><a href="contact.html">Контакты</a></li>
+
+					</ul>
+				</div><!--col-lg-12-->
+			</div><!--row-->
+		</div><!--container-->
+	</section><!--sectionPortfolio-->
+	<script>
+ 		$(".burgerImg").click(function (){
+    if ($(window).width() <= 768){
+        $('.menuSkills').slideToggle();
+    } else {
+        $('.menuSkills').slideToggle();
+    }
+});
+ 	</script>
+	<script>
+		$(".portfAll").mouseover(function(){
+			$(".firstWork").css("display","block");
+			$(".secondWork").css("display","block");
+			$(".thirdWork").css("display","block");
+			$(".forthWork").css("display","block");
+			$(".fiveWork").css("display","block");
+			$(".sixWork").css("display","block");
+		})
+		$(".portfBoot").mouseover(function(){
+			$(".firstWork").css("display","none");
+			$(".secondWork").css("display","block");
+			$(".thirdWork").css("display","block");
+			$(".forthWork").css("display","block");
+			$(".fiveWork").css("display","block");
+			$(".sixWork").css("display","block");
+		})
+		$(".portfStylus").mouseover(function(){
+			$(".firstWork").css("display","none");
+			$(".secondWork").css("display","none");
+			$(".thirdWork").css("display","none");
+			$(".forthWork").css("display","none");
+			$(".fiveWork").css("display","block");
+			$(".sixWork").css("display","none");
+		})
+		$(".portfLess").mouseover(function(){
+			$(".firstWork").css("display","none");
+			$(".secondWork").css("display","block");
+			$(".thirdWork").css("display","none");
+			$(".forthWork").css("display","none");
+			$(".fiveWork").css("display","none");
+			$(".sixWork").css("display","none");
+		})
+		$(".portfSass").mouseover(function(){
+			$(".firstWork").css("display","none");
+			$(".secondWork").css("display","none");
+			$(".thirdWork").css("display","block");
+			$(".forthWork").css("display","none");
+			$(".fiveWork").css("display","none");
+			$(".sixWork").css("display","none");
+		})
+	</script>
+</body>
+</html>

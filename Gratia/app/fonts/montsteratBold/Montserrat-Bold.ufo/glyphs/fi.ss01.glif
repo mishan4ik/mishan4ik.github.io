@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fi.ss01" format="2">
+  <advance width="749"/>
+  <outline>
+    <component base="f.ss01"/>
+    <component base="dotlessi" xOffset="448"/>
+    <component base="uni0307.i" xOffset="898"/>
+  </outline>
+</glyph>

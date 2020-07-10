@@ -1,0 +1,446 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.header{
+	background-position: center;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-color: #4099ff;
+}
+.titleTextHeader{
+	font-size: 20px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+	width: 80%;
+	margin-bottom: 50px;
+	font-family: 'Crimson Text', serif;
+
+}
+.textHeader{
+	color: #fff;
+	font-size: 20px;
+	width: 80%;
+	text-align: center;
+	font-family: 'Crimson Text', serif;
+}
+.headerBlock{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 100px;
+}
+.imgBlockHeader img{
+	border-radius: 50px;
+}
+.imgBlockHeader{
+	margin-top: 110px;
+}
+.transformBurger{
+	display: flex;
+	justify-content: center;
+	margin-top: 50px;
+}
+.burgerImg{
+	width: 25px;
+	height: 25px;
+	display: none;
+}
+.menuHeader{
+	display: flex;
+	justify-content: center;
+	margin-top: 50px;
+	margin-bottom: 80px;
+}
+.menuHeader ul{
+	display: flex;
+}
+.menuHeader ul li{
+	padding-left: 100px;
+	list-style-type: none;
+}
+.menuHeader ul li a{
+	color: #fff;
+	font-size: 18px;
+	font-family: 'Crimson Text', serif;
+
+}
+.sectionSkill{
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-color: #fff;
+}
+.transformSkill{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+}
+.secondBlockSkill{
+	margin-top: 60px;
+}
+.iconSkill svg{
+	display: block;
+	margin: 0px auto;
+	margin-bottom: 10px;
+}
+.title__expertBlock{
+	text-align: center;
+	font-size: 18px;
+	color: #4099ff;
+	font-family: 'Crimson Text', serif;
+
+}
+.menu__expertBlock{
+	text-align: center;
+	margin-top: 10px;
+}
+.menu__expertBlock li{
+	list-style-type: none;
+	color: #000000;
+	font-size: 15px;
+	font-family: 'Crimson Text', serif;
+}
+.skillsMenu{
+	color: #4099ff;
+}
+.menuSkills{
+	display: flex;
+	justify-content: center;
+}
+.menuSkills ul{
+	display: flex;
+	margin-top: 50px;
+
+}
+.menuSkills li{
+	list-style-type: none;
+	padding-left: 100px;
+}
+.menuSkills li a{
+	color: #4099ff;
+	font-size: 18px;
+	font-family: 'Crimson Text', serif;
+}
+.transformMenuPortfolio{
+	display: flex;
+	justify-content: center;
+}
+.transformMenuPortfolio ul{
+	display: flex;
+	padding-top: 50px;
+}
+.transformMenuPortfolio ul li{
+	list-style-type: none;
+}
+.transformMenuPortfolio ul li a{
+	margin-left: 50px;
+	text-transform: uppercase;
+	font-size: 15px;
+	color: #000000;
+	border: 1px solid #000000;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 50px;
+	text-decoration: none;
+	font-family: 'Crimson Text', serif;
+}
+.transformMenuPortfolio ul li a:hover{
+	color: #4099ff;
+	border: 1px solid #4099ff; 
+}
+.transformWorks{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+}
+.secondBlock_work{
+	margin-top: 30px;
+}
+.sectionContact{
+	background-position: center;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-color: #4099ff;
+}
+.transformContact{
+	display: flex;
+	justify-content: center;
+	margin-top: 200px;
+}
+.Contact{
+	display: flex;
+}
+.textContact{
+	color: #fff;
+	font-family: 'Crimson Text', serif;
+	font-size: 18px;
+	padding-left: 50px;
+
+}
+.Contact2{
+	margin-top: 50px;
+}
+.menuContact{
+	margin-top: 190px;
+}
+@media (min-width: 768px) and (max-width: 1023px){
+	.headerBlock{
+		display: block;
+	}
+	.titleTextHeader{
+		display: block;
+		margin: 0px auto;
+		padding-top: 50px;
+	}
+	.textHeader{
+		display: block;
+		margin: 0px auto;
+		padding-top: 50px;
+	}
+	.imgBlockHeader{
+		margin-top: 50px;
+	}
+	.imgBlockHeader img{
+		display: block;
+		margin: 0px auto;
+	}
+	.menuHeader{
+		display: none;
+	}
+	.menuHeader ul{
+		display: block;
+		text-align: center;
+	}
+	.menuHeader ul li{
+		padding-left: 0px;
+	}
+	.burgerImg{
+		display: block;
+	}
+	.transformSkill{
+		display: block;
+		margin: 0px auto;
+	}
+	.menuSkills{
+		display: none;
+	}
+	.menuSkills ul{
+		text-align: center;
+		display: block;
+	}
+	.menuSkills ul li{
+		padding-left: 0px;
+	}
+	.transformMenuPortfolio{
+		display: none;
+	}
+	.transformWorks{
+		display: block;
+		text-align: center;
+	}
+	.menuContact{
+		margin-top: 0px;
+		padding-bottom: 100px;
+	}
+	.sectionContact{
+		padding-bottom: 100px;
+	}
+
+}
+@media (min-width: 425px) and (max-width: 767px){
+	.headerBlock{
+		display: block;
+	}
+	.titleTextHeader{
+		display: block;
+		margin: 0px auto;
+		padding-top: 50px;
+	}
+	.textHeader{
+		display: block;
+		margin: 0px auto;
+		padding-top: 50px;
+	}
+	.imgBlockHeader{
+		margin-top: 50px;
+	}
+	.imgBlockHeader img{
+		display: block;
+		margin: 0px auto;
+	}
+	.menuHeader{
+		display: none;
+	}
+	.menuHeader ul{
+		display: block;
+		text-align: center;
+	}
+	.menuHeader ul li{
+		padding-left: 0px;
+	}
+	.burgerImg{
+		display: block;
+	}
+	.transformSkill{
+		display: block;
+		margin: 0px auto;
+	}
+	.menuSkills{
+		display: none;
+	}
+	.menuSkills ul{
+		text-align: center;
+		display: block;
+	}
+	.menuSkills ul li{
+		padding-left: 0px;
+	}
+	.transformMenuPortfolio{
+		display: none;
+	}
+	.transformWorks{
+		display: block;
+		text-align: center;
+	}
+	.menuContact{
+		margin-top: 0px;
+		padding-bottom: 100px;
+	}
+	.sectionContact{
+		padding-bottom: 100px;
+	}
+
+}
+@media (min-width: 375px) and (max-width: 424px){
+	.headerBlock{
+		display: block;
+	}
+	.titleTextHeader{
+		display: block;
+		margin: 0px auto;
+		padding-top: 50px;
+	}
+	.textHeader{
+		display: block;
+		margin: 0px auto;
+		padding-top: 50px;
+	}
+	.imgBlockHeader{
+		margin-top: 50px;
+	}
+	.imgBlockHeader img{
+		display: block;
+		margin: 0px auto;
+	}
+	.menuHeader{
+		display: none;
+	}
+	.menuHeader ul{
+		display: block;
+		text-align: center;
+	}
+	.menuHeader ul li{
+		padding-left: 0px;
+	}
+	.burgerImg{
+		display: block;
+	}
+	.transformSkill{
+		display: block;
+		margin: 0px auto;
+	}
+	.menuSkills{
+		display: none;
+	}
+	.menuSkills ul{
+		text-align: center;
+		display: block;
+	}
+	.menuSkills ul li{
+		padding-left: 0px;
+	}
+	.transformMenuPortfolio{
+		display: none;
+	}
+	.transformWorks{
+		display: block;
+		text-align: center;
+	}
+	.menuContact{
+		margin-top: 0px;
+		padding-bottom: 100px;
+	}
+	.sectionContact{
+		padding-bottom: 100px;
+	}
+
+}
+@media (min-width: 320px) and (max-width: 374px){
+	.headerBlock{
+		display: block;
+	}
+	.titleTextHeader{
+		display: block;
+		margin: 0px auto;
+		padding-top: 50px;
+	}
+	.textHeader{
+		display: block;
+		margin: 0px auto;
+		padding-top: 50px;
+	}
+	.imgBlockHeader{
+		margin-top: 50px;
+	}
+	.imgBlockHeader img{
+		display: block;
+		margin: 0px auto;
+	}
+	.menuHeader{
+		display: none;
+	}
+	.menuHeader ul{
+		display: block;
+		text-align: center;
+	}
+	.menuHeader ul li{
+		padding-left: 0px;
+	}
+	.burgerImg{
+		display: block;
+	}
+	.transformSkill{
+		display: block;
+		margin: 0px auto;
+	}
+	.menuSkills{
+		display: none;
+	}
+	.menuSkills ul{
+		text-align: center;
+		display: block;
+	}
+	.menuSkills ul li{
+		padding-left: 0px;
+	}
+	.transformMenuPortfolio{
+		display: none;
+	}
+	.transformWorks{
+		display: block;
+		text-align: center;
+	}
+	.menuContact{
+		margin-top: 0px;
+		padding-bottom: 100px;
+	}
+	.sectionContact{
+		padding-bottom: 100px;
+	}
+
+}

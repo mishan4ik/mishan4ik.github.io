@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J.ss01" format="2">
+  <advance width="540"/>
+  <anchor x="0" y="0" name="Anchor-17"/>
+  <anchor x="0" y="0" name="Anchor-16"/>
+  <anchor x="0" y="0" name="Anchor-15"/>
+  <anchor x="260" y="700" name="Anchor-14"/>
+  <anchor x="0" y="0" name="Anchor-13"/>
+  <anchor x="0" y="0" name="Anchor-12"/>
+  <outline>
+    <contour>
+      <point x="22" y="-59"/>
+      <point x="-16" y="-10" type="qcurve"/>
+      <point x="72" y="98" type="line"/>
+      <point x="129" y="21"/>
+      <point x="201" y="21" type="qcurve" smooth="yes"/>
+      <point x="301" y="21"/>
+      <point x="301" y="137" type="qcurve" smooth="yes"/>
+      <point x="301" y="570" type="line"/>
+      <point x="56" y="570" type="line"/>
+      <point x="56" y="700" type="line"/>
+      <point x="463" y="700" type="line"/>
+      <point x="463" y="146" type="line" smooth="yes"/>
+      <point x="463" y="17"/>
+      <point x="335" y="-112"/>
+      <point x="210" y="-112" type="qcurve" smooth="yes"/>
+      <point x="139" y="-112"/>
+    </contour>
+  </outline>
+</glyph>

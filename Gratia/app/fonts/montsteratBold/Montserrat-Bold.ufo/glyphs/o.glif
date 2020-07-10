@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o" format="2">
+  <advance width="655"/>
+  <unicode hex="006F"/>
+  <anchor x="0" y="0" name="Anchor-17"/>
+  <anchor x="444" y="538" name="Anchor-16"/>
+  <anchor x="326" y="269" name="Anchor-15"/>
+  <anchor x="326" y="538" name="Anchor-14"/>
+  <anchor x="436" y="0" name="Anchor-13"/>
+  <anchor x="326" y="0" name="Anchor-12"/>
+  <outline>
+    <contour>
+      <point x="108" y="63"/>
+      <point x="32" y="189"/>
+      <point x="32" y="269" type="qcurve" smooth="yes"/>
+      <point x="32" y="349"/>
+      <point x="108" y="475"/>
+      <point x="243" y="546"/>
+      <point x="328" y="546" type="qcurve" smooth="yes"/>
+      <point x="413" y="546"/>
+      <point x="547" y="475"/>
+      <point x="623" y="349"/>
+      <point x="623" y="269" type="qcurve" smooth="yes"/>
+      <point x="623" y="189"/>
+      <point x="547" y="63"/>
+      <point x="413" y="-8"/>
+      <point x="328" y="-8" type="qcurve" smooth="yes"/>
+      <point x="243" y="-8"/>
+    </contour>
+    <contour>
+      <point x="465" y="201"/>
+      <point x="465" y="269" type="qcurve" smooth="yes"/>
+      <point x="465" y="337"/>
+      <point x="388" y="418"/>
+      <point x="328" y="418" type="qcurve" smooth="yes"/>
+      <point x="268" y="418"/>
+      <point x="190" y="337"/>
+      <point x="190" y="269" type="qcurve" smooth="yes"/>
+      <point x="190" y="201"/>
+      <point x="268" y="120"/>
+      <point x="328" y="120" type="qcurve" smooth="yes"/>
+      <point x="388" y="120"/>
+    </contour>
+  </outline>
+</glyph>

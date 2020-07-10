@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb.loclVIET" format="2">
+  <advance width="0"/>
+  <anchor x="-300" y="538" name="_Anchor-20"/>
+  <anchor x="-300" y="699" name="Anchor-19"/>
+  <anchor x="-300" y="538" name="_Anchor-19"/>
+  <anchor x="-300" y="538" name="_Anchor-14"/>
+  <anchor x="-300" y="538" name="_Anchor-8"/>
+  <anchor x="-300" y="538" name="_Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="-295" y="622"/>
+      <point x="-320" y="638" type="qcurve" smooth="yes"/>
+      <point x="-332" y="645"/>
+      <point x="-355" y="657"/>
+      <point x="-364" y="657" type="qcurve" smooth="yes"/>
+      <point x="-384" y="657"/>
+      <point x="-406" y="633"/>
+      <point x="-408" y="611" type="qcurve"/>
+      <point x="-488" y="611" type="line"/>
+      <point x="-487" y="671"/>
+      <point x="-426" y="736"/>
+      <point x="-372" y="736" type="qcurve" smooth="yes"/>
+      <point x="-346" y="736"/>
+      <point x="-309" y="720"/>
+      <point x="-281" y="704" type="qcurve" smooth="yes"/>
+      <point x="-265" y="694"/>
+      <point x="-244" y="684"/>
+      <point x="-234" y="684" type="qcurve" smooth="yes"/>
+      <point x="-214" y="684"/>
+      <point x="-192" y="709"/>
+      <point x="-190" y="729" type="qcurve"/>
+      <point x="-112" y="729" type="line"/>
+      <point x="-113" y="671"/>
+      <point x="-173" y="605"/>
+      <point x="-226" y="605" type="qcurve" smooth="yes"/>
+      <point x="-253" y="605"/>
+    </contour>
+  </outline>
+</glyph>

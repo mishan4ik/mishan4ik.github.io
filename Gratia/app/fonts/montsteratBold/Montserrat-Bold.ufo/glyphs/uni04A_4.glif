@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04A4" format="2">
+  <advance width="1078"/>
+  <unicode hex="04A4"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="408" y="564" name="Anchor-10"/>
+  <anchor x="570" y="0" name="Anchor-9"/>
+  <anchor x="808" y="700" name="Anchor-8"/>
+  <anchor x="0" y="0" name="Anchor-7"/>
+  <anchor x="408" y="0" name="Anchor-6"/>
+  <outline>
+    <component base="H" xOffset="4"/>
+    <component base="uni0413" xOffset="483"/>
+  </outline>
+</glyph>

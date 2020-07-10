@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wdieresis" format="2">
+  <advance width="1163"/>
+  <unicode hex="1E84"/>
+  <anchor x="0" y="0" name="Anchor-17"/>
+  <anchor x="0" y="0" name="Anchor-16"/>
+  <anchor x="0" y="0" name="Anchor-15"/>
+  <anchor x="582" y="856" name="Anchor-14"/>
+  <anchor x="0" y="0" name="Anchor-13"/>
+  <anchor x="582" y="0" name="Anchor-12"/>
+  <outline>
+    <component base="W"/>
+    <component base="uni0308.case" xOffset="882"/>
+  </outline>
+</glyph>

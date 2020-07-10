@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y.sc.ss01" format="2">
+  <advance width="683"/>
+  <anchor x="0" y="0" name="Anchor-17"/>
+  <anchor x="0" y="0" name="Anchor-16"/>
+  <anchor x="0" y="0" name="Anchor-15"/>
+  <anchor x="340" y="575" name="Anchor-14"/>
+  <anchor x="0" y="0" name="Anchor-13"/>
+  <anchor x="597" y="9" name="Anchor-12"/>
+  <outline>
+    <contour>
+      <point x="612" y="575" type="line"/>
+      <point x="612" y="180" type="line" smooth="yes"/>
+      <point x="612" y="48"/>
+      <point x="459" y="-93"/>
+      <point x="326" y="-93" type="qcurve" smooth="yes"/>
+      <point x="249" y="-93"/>
+      <point x="124" y="-54"/>
+      <point x="79" y="-18" type="qcurve"/>
+      <point x="141" y="95" type="line"/>
+      <point x="178" y="66"/>
+      <point x="271" y="34"/>
+      <point x="319" y="34" type="qcurve" smooth="yes"/>
+      <point x="390" y="34"/>
+      <point x="454" y="100"/>
+      <point x="454" y="171" type="qcurve" smooth="yes"/>
+      <point x="454" y="194" type="line"/>
+      <point x="396" y="136"/>
+      <point x="297" y="136" type="qcurve" smooth="yes"/>
+      <point x="188" y="136"/>
+      <point x="66" y="262"/>
+      <point x="66" y="376" type="qcurve" smooth="yes"/>
+      <point x="66" y="575" type="line"/>
+      <point x="224" y="575" type="line"/>
+      <point x="224" y="383" type="line" smooth="yes"/>
+      <point x="224" y="326"/>
+      <point x="280" y="265"/>
+      <point x="333" y="265" type="qcurve" smooth="yes"/>
+      <point x="388" y="265"/>
+      <point x="454" y="329"/>
+      <point x="454" y="388" type="qcurve" smooth="yes"/>
+      <point x="454" y="575" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02CB" format="2">
+  <advance width="600"/>
+  <unicode hex="02CB"/>
+  <anchor x="300" y="729" name="Anchor-19"/>
+  <outline>
+    <contour>
+      <point x="88" y="751" type="line"/>
+      <point x="256" y="751" type="line"/>
+      <point x="391" y="607" type="line"/>
+      <point x="269" y="607" type="line"/>
+    </contour>
+  </outline>
+</glyph>

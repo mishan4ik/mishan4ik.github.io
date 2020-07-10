@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="2">
+  <advance width="844"/>
+  <unicode hex="00D8"/>
+  <anchor x="0" y="0" name="Anchor-17"/>
+  <anchor x="616" y="700" name="Anchor-16"/>
+  <anchor x="422" y="350" name="Anchor-15"/>
+  <anchor x="422" y="700" name="Anchor-14"/>
+  <anchor x="520" y="0" name="Anchor-13"/>
+  <anchor x="422" y="0" name="Anchor-12"/>
+  <outline>
+    <component base="O"/>
+    <component base="uni0338.case" xOffset="831"/>
+  </outline>
+</glyph>

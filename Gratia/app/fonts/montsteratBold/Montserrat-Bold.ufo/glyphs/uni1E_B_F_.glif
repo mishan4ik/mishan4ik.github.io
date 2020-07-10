@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EBF" format="2">
+  <advance width="631"/>
+  <unicode hex="1EBF"/>
+  <anchor x="0" y="0" name="Anchor-17"/>
+  <anchor x="0" y="0" name="Anchor-16"/>
+  <anchor x="0" y="0" name="Anchor-15"/>
+  <anchor x="522" y="795" name="Anchor-14"/>
+  <anchor x="536" y="0" name="Anchor-13"/>
+  <anchor x="316" y="0" name="Anchor-12"/>
+  <outline>
+    <component base="e"/>
+    <component base="uni0302.loclVIET" xOffset="616"/>
+    <component base="acutecomb.loclVIET" xOffset="822" yOffset="96"/>
+  </outline>
+</glyph>

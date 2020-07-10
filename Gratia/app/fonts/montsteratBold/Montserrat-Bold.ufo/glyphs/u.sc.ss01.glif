@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u.sc.ss01" format="2">
+  <advance width="693"/>
+  <anchor x="0" y="0" name="Anchor-17"/>
+  <anchor x="548" y="575" name="Anchor-16"/>
+  <anchor x="0" y="0" name="Anchor-15"/>
+  <anchor x="345" y="575" name="Anchor-14"/>
+  <anchor x="617" y="0" name="Anchor-13"/>
+  <anchor x="345" y="0" name="Anchor-12"/>
+  <outline>
+    <contour>
+      <point x="617" y="575" type="line"/>
+      <point x="617" y="0" type="line"/>
+      <point x="464" y="0" type="line"/>
+      <point x="464" y="55" type="line"/>
+      <point x="404" y="-11"/>
+      <point x="294" y="-11" type="qcurve" smooth="yes"/>
+      <point x="188" y="-11"/>
+      <point x="71" y="117"/>
+      <point x="71" y="232" type="qcurve" smooth="yes"/>
+      <point x="71" y="575" type="line"/>
+      <point x="229" y="575" type="line"/>
+      <point x="229" y="241" type="line" smooth="yes"/>
+      <point x="229" y="180"/>
+      <point x="285" y="118"/>
+      <point x="337" y="118" type="qcurve" smooth="yes"/>
+      <point x="392" y="118"/>
+      <point x="458" y="185"/>
+      <point x="458" y="246" type="qcurve" smooth="yes"/>
+      <point x="458" y="575" type="line"/>
+    </contour>
+  </outline>
+</glyph>

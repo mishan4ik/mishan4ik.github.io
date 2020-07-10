@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03080304.case" format="2">
+  <advance width="0"/>
+  <anchor x="-300" y="700" name="_Anchor-20"/>
+  <anchor x="-300" y="1010" name="Anchor-19"/>
+  <anchor x="-300" y="700" name="_Anchor-19"/>
+  <anchor x="-300" y="700" name="_Anchor-14"/>
+  <anchor x="-300" y="700" name="_Anchor-8"/>
+  <anchor x="-300" y="700" name="_Anchor-2"/>
+  <outline>
+    <component base="uni0308.loclVIET" yOffset="150"/>
+    <component base="uni0304.loclVIET" yOffset="311"/>
+  </outline>
+</glyph>

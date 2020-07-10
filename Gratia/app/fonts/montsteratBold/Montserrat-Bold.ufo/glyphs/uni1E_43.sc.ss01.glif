@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E43.sc.ss01" format="2">
+  <advance width="1039"/>
+  <anchor x="0" y="0" name="Anchor-17"/>
+  <anchor x="0" y="0" name="Anchor-16"/>
+  <anchor x="0" y="0" name="Anchor-15"/>
+  <anchor x="521" y="575" name="Anchor-14"/>
+  <anchor x="0" y="0" name="Anchor-13"/>
+  <anchor x="521" y="-167" name="Anchor-12"/>
+  <outline>
+    <component base="m.sc.ss01"/>
+    <component base="dotbelowcomb" xOffset="821"/>
+  </outline>
+</glyph>

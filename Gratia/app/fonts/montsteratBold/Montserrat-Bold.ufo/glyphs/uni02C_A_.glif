@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02CA" format="2">
+  <advance width="600"/>
+  <unicode hex="02CA"/>
+  <anchor x="300" y="729" name="Anchor-19"/>
+  <outline>
+    <contour>
+      <point x="344" y="751" type="line"/>
+      <point x="512" y="751" type="line"/>
+      <point x="331" y="607" type="line"/>
+      <point x="209" y="607" type="line"/>
+    </contour>
+  </outline>
+</glyph>

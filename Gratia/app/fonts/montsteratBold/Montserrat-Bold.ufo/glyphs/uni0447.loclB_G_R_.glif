@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0447.loclBGR" format="2">
+  <advance width="635"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="396" y="0" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="0" y="0" name="Anchor-7"/>
+  <anchor x="0" y="0" name="Anchor-6"/>
+  <outline>
+    <contour>
+      <point x="560" y="538" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="404" y="0" type="line"/>
+      <point x="404" y="232" type="line"/>
+      <point x="388" y="199"/>
+      <point x="306" y="159"/>
+      <point x="246" y="159" type="qcurve" smooth="yes"/>
+      <point x="144" y="159"/>
+      <point x="35" y="259"/>
+      <point x="35" y="362" type="qcurve" smooth="yes"/>
+      <point x="35" y="538" type="line"/>
+      <point x="190" y="538" type="line"/>
+      <point x="190" y="368" type="line" smooth="yes"/>
+      <point x="190" y="276"/>
+      <point x="293" y="276" type="qcurve" smooth="yes"/>
+      <point x="342" y="276"/>
+      <point x="404" y="325"/>
+      <point x="404" y="363" type="qcurve" smooth="yes"/>
+      <point x="404" y="538" type="line"/>
+    </contour>
+  </outline>
+</glyph>

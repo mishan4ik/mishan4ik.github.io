@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="app/fonts/montsteratBold/font.css">
+	 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+	<link rel="stylesheet" href="app/css/style.css">
+	<meta charset="UTF-8">
+	<title>Document</title>
+	 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+</head>
+<body>
+	<header class="header">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3">
+					<div class="headerLogo">
+						<img src="app/img/logo.png" alt="">
+					</div><!--headerLogo-->
+					<p class="titleLogo">Gratia</p>
+				</div><!--col-lg-3-->
+				<div class="col-lg-9 menuHeader">
+					<ul>
+						<li><a href="">About</a></li>
+						<li><a href="">Menu</a></li>
+						<li><a href="">Gallery</a></li>
+						<li><a href="">Contact</a></li>
+					</ul>
+				</div><!--menuHeader-->
+			</div><!--row-->
+			<div class="row">
+				<div class="col-lg-12 bgHeader">
+					<img src="app/img/bgHeader.png" alt="">
+				</div><!--bgHeader-->
+			</div><!--row-->
+			<div class="row">
+				<div class="col-lg-12 HeaderBottom">
+					<div class="titleHeaderbottom">
+					<p class="textHeaderBottom">and perfection is not detail</p>			
+					</div><!--titleHeaderBottom-->
+					<div class="btnHeader">
+						<button class="HeaderBtn">book a table</button>
+					</div><!--btnHeader-->
+				</div><!--col-lg-12-->
+			</div><!--row-->
+		</div><!--container-->
+	</header><!--header-->
+	<section class="sectionPerfection">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-lg-12">
+					<h5 class="titlePerfect">
+						perfection
+					</h5>
+					<p class="textPerfectRandom">
+						 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+					</p>
+				</div><!--col-lg-12-->
+			</div><!--row-->
+			<div class="row">
+				<div class="col-lg-12 PerfectTransform p-0">
+					<div class="imgPerfect">
+						<img src="app/img/imgPerfect1.png" alt="">
+					</div><!--imgPerfect-->
+					<div class="imgPerfect">
+						<img src="app/img/imgPerfect2.png" alt="">
+					</div><!--imgPerfect-->
+					<div class="imgPerfect">
+						<img src="app/img/imgPerfect3.png" alt="">
+					</div><!--imgPerfect-->
+				</div><!--PerfectTransform-->
+			</div><!--row-->
+			<div class="row">
+				<div class="col-lg-12 blockPerfectOffer">
+					<a class="perfectOffer" href="">check other offers</a>
+				</div><!--col-lg-12-->
+			</div><!--row-->
+		</div><!--container-->
+	</section><!--sectionPerfection-->
+	<section class="sectionDetails">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 BlocksDetails">
+					<div class="blockDetail">
+						<h5 class="titleDetail">details</h5>
+						<p class="randomTextDetails">Lorem Ipsum has been the industry's standard dummy text ever</p>
+						<div class="blockBtnDetails">
+							<button class="btnDetails">preparation of our dishes</button>
+						</div><!--blockBtnDetails-->
+					</div><!--blockDetail-->
+				</div><!--col-lg-12-->
+			</div><!--row-->
+		</div><!--container-->
+	</section><!--sectionDetails-->
+	<section class="sectionReach">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<h5 class="titlePerfect">
+						how we reach this
+					</h5>
+					<p class="textPerfectRandom">
+						 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+					</p>
+				</div><!--col-lg-12-->
+			</div><!--row-->
+			<div class="row">
+				<div class="col-lg-12 reachTransform">
+					<div class="blockReach">
+						<h5 class="titleTextReach">diffrent locations</h5>
+						<p class="textRandomReach">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+					</div><!--blockReach-->
+					<div class="blockReach">
+						<h5 class="titleTextReach">fresh products</h5>
+						<p class="textRandomReach">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+					</div><!--blockReach-->
+					<div class="blockReach">
+						<h5 class="titleTextReach">the best from the beggining</h5>
+						<p class="textRandomReach">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+					</div><!--blockReach-->
+				</div><!--col-lg-12-->
+			</div><!--row-->
+		</div><!--container-->
+	</section><!--sectionReach-->
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="imgFooter">
+						<img src="app/img/logo.png" alt="">
+					</div><!--imgFooter-->
+					<h5 class="footerTitleName">Gratia Restaurant</h5>
+					<p class="copyFooter">CopyRight 2016 All rights reserved by symu</p>
+				</div><!--col-lg-12-->
+			</div><!--row-->
+		</div><!--container-->
+	</footer>
+</body>
+<script>
+ 		$(".headerLogo").click(function (){
+    if ($(window).width() <= 768){
+        $('.menuHeader').slideToggle();
+    } else {
+        $('.menuHeader').slideToggle();
+    }
+});
+ 	</script>
+</html>

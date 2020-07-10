@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scedilla" format="2">
+  <advance width="531"/>
+  <unicode hex="015F"/>
+  <anchor x="0" y="0" name="Anchor-17"/>
+  <anchor x="0" y="0" name="Anchor-16"/>
+  <anchor x="0" y="0" name="Anchor-15"/>
+  <anchor x="261" y="538" name="Anchor-14"/>
+  <anchor x="0" y="0" name="Anchor-13"/>
+  <anchor x="261" y="0" name="Anchor-12"/>
+  <outline>
+    <component base="s"/>
+    <component base="uni0327" xOffset="561"/>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="descendercy.case" format="2">
+  <advance width="373"/>
+  <anchor x="39" y="0" name="_Anchor-17"/>
+  <anchor x="39" y="0" name="_Anchor-9"/>
+  <anchor x="39" y="0" name="_Anchor-5"/>
+  <outline>
+    <contour>
+      <point x="298" y="132" type="line"/>
+      <point x="298" y="-145" type="line"/>
+      <point x="148" y="-145" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="39" y="0" type="line"/>
+      <point x="39" y="132" type="line"/>
+    </contour>
+  </outline>
+</glyph>

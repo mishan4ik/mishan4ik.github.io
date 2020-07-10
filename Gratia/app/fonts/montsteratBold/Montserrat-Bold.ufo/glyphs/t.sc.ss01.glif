@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.sc.ss01" format="2">
+  <advance width="547"/>
+  <anchor x="0" y="0" name="Anchor-17"/>
+  <anchor x="0" y="0" name="Anchor-16"/>
+  <anchor x="273" y="254" name="Anchor-15"/>
+  <anchor x="273" y="576" name="Anchor-14"/>
+  <anchor x="0" y="0" name="Anchor-13"/>
+  <anchor x="273" y="0" name="Anchor-12"/>
+  <outline>
+    <contour>
+      <point x="505" y="398" type="line"/>
+      <point x="432" y="439"/>
+      <point x="352" y="452" type="qcurve"/>
+      <point x="352" y="0" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="194" y="452" type="line"/>
+      <point x="115" y="439"/>
+      <point x="42" y="398" type="qcurve"/>
+      <point x="-11" y="513" type="line"/>
+      <point x="50" y="549"/>
+      <point x="195" y="586"/>
+      <point x="273" y="586" type="qcurve" smooth="yes"/>
+      <point x="351" y="586"/>
+      <point x="497" y="549"/>
+      <point x="557" y="513" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>
